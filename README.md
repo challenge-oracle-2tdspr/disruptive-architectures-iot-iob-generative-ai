@@ -40,4 +40,4 @@ O AgroTech é uma solução integrada de gestão agrícola inteligente, projetad
 
 ## Vídeo de Apresentação do Projeto
 
-[Apresentação do Projeto AgroTech no YouTube](https://www.youtube.com/watch?v=TwlQuYMBLX0)
+[Apresentação do Projeto AgroTech no YouTube](https://youtu.be/YdZeIElCnHE?si=0_lcg0uesOWPJqZ3)
