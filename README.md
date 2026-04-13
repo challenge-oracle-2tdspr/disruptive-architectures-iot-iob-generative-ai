@@ -1,5 +1,14 @@
 # Projeto AgroTech - Arquitetura e Solução 
 
+**Estrutura do repositório:**
+Pasta dos documentos gerais (Sprint 01, 02 e 03):
+```
+/documentacao_geral_agrotech/
+```
+Pasta da Proposta de Implementação do LLM (Sprint 03)
+```
+/proposta_de_implementacao_llm/
+```
 ## Objetivo do Projeto
 
 O AgroTech é uma solução integrada de gestão agrícola inteligente, projetada para monitorar plantações e safras por meio de sensores IoT, análise de dados ambientais, automação de irrigação e controle de produtividade. O sistema conecta o campo à gestão, possibilitando decisões em tempo real baseadas em dados precisos e inovadores.
