@@ -22,6 +22,11 @@ O AgroTech é uma solução integrada de gestão agrícola inteligente, projetad
 
 [![AgroTech Demo & Test API ASP .NET CORE](https://img.youtube.com/vi/1T_w2M-NjsE/0.jpg)](https://youtu.be/1T_w2M-NjsE)
 
+## Confira o vídeo de apresentação da proposta de implementação do LLM no YouTube:
+
+[![Implementação LLM Oracle APEX AgroTech](./docs/images/image.png)](https://youtu.be/9X3xrN_2FdU?si=N_6H0ILW1U7rxnxZ)
+
+
 `Abaixo, um diagrama para ilustrar o fluxo geral do projeto:`
 
 <img src="./agrotech-diagrama-tecnologia/diagrama-tecnologia-agrotech.jpg">
