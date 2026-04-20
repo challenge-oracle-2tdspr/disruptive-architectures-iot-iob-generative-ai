@@ -13,6 +13,15 @@ Pasta da Proposta de Implementação do LLM (Sprint 03)
 
 O AgroTech é uma solução integrada de gestão agrícola inteligente, projetada para monitorar plantações e safras por meio de sensores IoT, análise de dados ambientais, automação de irrigação e controle de produtividade. O sistema conecta o campo à gestão, possibilitando decisões em tempo real baseadas em dados precisos e inovadores.
 
+
+## Confira o vídeo de apresentação geral do projeto no YouTube:
+
+[![AgroTech Commercial Presentation](https://img.youtube.com/vi/zkBlN1dhXJc/0.jpg)](https://youtu.be/zkBlN1dhXJc)
+
+## Confira o vídeo de apresentação da API .NET no YouTube:
+
+[![AgroTech Demo & Test API ASP .NET CORE](https://img.youtube.com/vi/1T_w2M-NjsE/0.jpg)](https://youtu.be/1T_w2M-NjsE)
+
 `Abaixo, um diagrama para ilustrar o fluxo geral do projeto:`
 
 <img src="./agrotech-diagrama-tecnologia/diagrama-tecnologia-agrotech.jpg">
